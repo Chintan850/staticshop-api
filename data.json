@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "email": "22f2000850@ds.study.iitm.ac.in",
+    "version": "016712c0"
+  },
+  "products": [
+    {
+      "id": "prod-016712c0-001",
+      "name": "Premium Item 1",
+      "category": "sports",
+      "price": 251.28,
+      "stock": 173,
+      "rating": 3.7
+    },
+    {
+      "id": "prod-016712c0-002",
+      "name": "Premium Item 2",
+      "category": "books",
+      "price": 146.82,
+      "stock": 33,
+      "rating": 2.6
+    },
+    {
+      "id": "prod-016712c0-003",
+      "name": "Pro Item 3",
+      "category": "electronics",
+      "price": 324.11,
+      "stock": 136,
+      "rating": 4.1
+    },
+    {
+      "id": "prod-016712c0-004",
+      "name": "Basic
